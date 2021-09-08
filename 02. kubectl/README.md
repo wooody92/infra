@@ -134,7 +134,7 @@ $ kubectl get pod -n [namespace]
 
 - Lens 실행 후 config 파일 연결
 
-  ![image-20210906183152001](/Users/henry.yoon/Library/Application Support/typora-user-images/image-20210906183152001.png)
+  ![image](https://user-images.githubusercontent.com/58318041/132437876-1e576957-d346-4127-871c-0428511f1a90.png)
 
 ### 주의사항
 
