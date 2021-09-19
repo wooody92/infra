@@ -14,6 +14,8 @@ docker & k8s에 대해 공부하고 학습한 내용을 블로그에 정리합�
      - https://wooody92.github.io/categories/#kubernetes
 2. kubectl
    - [kubeconfig 설정하기](https://github.com/wooody92/infra/tree/main/02.%20kubectl#1-kubeconfig-%EC%84%A4%EC%A0%95)
+3. jenkins
+4. GitHub actions
 
 
 
